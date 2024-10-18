@@ -3,7 +3,9 @@
 This repository contains the link to the colab Notebooks for the course 'Bayesian Data Analysis and Probabilistic Programming' offered by the Corsi bachelor DATA SCIENCE AND ARTIFICIAL INTELLIGENCE at DTI, SUPSI.
 
 Contacts:
+
 Giorgio Corani, giorgio.corani@supsi.ch (lectures)
+
 Marco Forgione, marco.forgione@supsi.ch (labs)
 
 Happy coding!
